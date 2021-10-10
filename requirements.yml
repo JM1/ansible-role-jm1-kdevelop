@@ -1,7 +1,0 @@
----
-roles:
-- jm1.common
-- jm1.dev_cpp
-
-collections:
-- jm1.pkg
